@@ -1,2 +1,0 @@
-# KWMonitor
-Korona Wirus Monitor
